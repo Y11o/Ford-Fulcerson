@@ -1,0 +1,14 @@
+﻿  FordFulcerson.cpp
+D:\My projects\VS repos\Ford-Fulcerson\FordFulcerson.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Ford-Fulcerson\FordFulcerson.cpp(33,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Ford-Fulcerson\FordFulcerson.cpp(39,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Ford-Fulcerson\FordFulcerson.cpp(44,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Ford-Fulcerson\FordFulcerson.cpp(55,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Ford-Fulcerson\FordFulcerson.cpp(66,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Ford-Fulcerson\FordFulcerson.cpp(82,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Ford-Fulcerson\FordFulcerson.cpp(78,6): warning C4101: bufVe: неиспользованная локальная переменная
+D:\My projects\VS repos\Ford-Fulcerson\FordFulcerson.cpp(78,13): warning C4101: bufPrice: неиспользованная локальная переменная
+D:\My projects\VS repos\Ford-Fulcerson\FordFulcerson.cpp(102,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+  Создание кода...
+  Ford-Fulcerson.vcxproj -> D:\My projects\VS repos\Ford-Fulcerson\Debug\Ford-Fulcerson.exe
